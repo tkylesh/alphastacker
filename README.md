@@ -7,6 +7,7 @@ abcd
 abcde
 abcdef
 etc
+
 Then add logic to stackLetters that places a space after every fifth letter, like this:
 
 a
